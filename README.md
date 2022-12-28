@@ -5,7 +5,7 @@ hmmBOT is an open-source discord bot that has nsfw commands running with the nek
 ## Commands :
 
 - NSFW Commands 🔞 : `4k`, `anal`, `ass`, `boobs`, `hanal`, `hass`, `hboobs`, `hentai`, `hkitsune`, `hmidriff`, `hneko`, `holo`, `kemonomimi`, `neko`, `pgif`, `pussy`
-- SFW Commands 👍: `coffee`, 'food'
+- SFW Commands 👍: `coffee`, `food`
 - Other Commands 🧷 : `help`, `stats`
 
 ## How to config ?
